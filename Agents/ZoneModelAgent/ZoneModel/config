@@ -1,7 +1,7 @@
 {
 	"agentid": "ArxModel_Zone1",
-	"MassFlow_Zone1": "/home/adamkohl/volttron/Agents/ZoneModelAgent/ZoneModel/oct_31_2013_VAV_DAT_Zone1.csv",
-	"TempSat_Zone1": "/home/adamkohl/volttron/Agents/ZoneModelAgent/ZoneModel/massflow.csv",
+	"MassFlow_Zone1": "/home/adamkohl/volttron/Agents/ZoneModelAgent/ZoneModel/April18_MassFlow.csv",
+	"TempSat_Zone1": "/home/adamkohl/volttron/Agents/ZoneModelAgent/ZoneModel/April18_Tsat.csv",
 	"OutputLoc": "/home/adamkohl/volttron/Agents/ZoneModelAgent/ZoneModel/output.csv",
 	"arx_a1" : 0.99889,
 	"arx_a2" : -0.20064,
